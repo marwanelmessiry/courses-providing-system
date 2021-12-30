@@ -15,5 +15,11 @@
      10- omar hussein : testing integration : java python , c++, css , HTML
 ## stake holders
  ### internal stake holders
+ 1-system owner (schools,univeristies)
+ 2- admin of the system
+ 3- Marketing specialist
+ ### external stakeholdera
+ 1- users (instructors- teachers - students)
+ 2- educational partners
  
 agile projj
