@@ -39,5 +39,6 @@
      between 20 and 40
 ## work flow rationale and rules
      first of all we will have a task then the task will be assigned to ateam or member if it is short then it will be tested then if it passed testing it will be dne if not we      must assign it to the same team or member to fix the issues until it passes the testing phase
+# rest of the project is in the document attached with this file
 
 agile projj
