@@ -13,4 +13,7 @@
      8- youssef sherif : testing front-end : java , python , html , css
      9- youssef aburaya : testing back-end: java , python, c++
      10- omar hussein : testing integration : java python , c++, css , HTML
+## stake holders
+ ### internal stake holders
+ 
 agile projj
